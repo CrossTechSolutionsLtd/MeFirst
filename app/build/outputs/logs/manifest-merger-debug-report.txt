@@ -1,0 +1,77 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/andie/StudioProjects/MeFirst/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/andie/StudioProjects/MeFirst/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/andie/StudioProjects/MeFirst/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/andie/StudioProjects/MeFirst/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/andie/StudioProjects/MeFirst/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/andie/StudioProjects/MeFirst/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/andie/StudioProjects/MeFirst/app/src/main/AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from /Users/andie/StudioProjects/MeFirst/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /Users/andie/StudioProjects/MeFirst/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/andie/StudioProjects/MeFirst/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/andie/StudioProjects/MeFirst/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/andie/StudioProjects/MeFirst/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/andie/StudioProjects/MeFirst/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/andie/StudioProjects/MeFirst/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/andie/StudioProjects/MeFirst/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/andie/StudioProjects/MeFirst/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/andie/StudioProjects/MeFirst/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/andie/StudioProjects/MeFirst/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/andie/StudioProjects/MeFirst/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/andie/StudioProjects/MeFirst/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/andie/StudioProjects/MeFirst/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/andie/StudioProjects/MeFirst/app/src/main/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /Users/andie/StudioProjects/MeFirst/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/andie/StudioProjects/MeFirst/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/andie/StudioProjects/MeFirst/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/andie/StudioProjects/MeFirst/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /Users/andie/StudioProjects/MeFirst/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/andie/StudioProjects/MeFirst/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/andie/StudioProjects/MeFirst/app/src/main/AndroidManifest.xml:11:5-33:19
+	android:label
+		ADDED from /Users/andie/StudioProjects/MeFirst/app/src/main/AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from /Users/andie/StudioProjects/MeFirst/app/src/main/AndroidManifest.xml:13:9-45
+	android:allowBackup
+		ADDED from /Users/andie/StudioProjects/MeFirst/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /Users/andie/StudioProjects/MeFirst/app/src/main/AndroidManifest.xml:15:9-40
+activity#com.example.mefirst.MainActivity
+ADDED from /Users/andie/StudioProjects/MeFirst/app/src/main/AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from /Users/andie/StudioProjects/MeFirst/app/src/main/AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from /Users/andie/StudioProjects/MeFirst/app/src/main/AndroidManifest.xml:17:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/andie/StudioProjects/MeFirst/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/andie/StudioProjects/MeFirst/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /Users/andie/StudioProjects/MeFirst/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/andie/StudioProjects/MeFirst/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /Users/andie/StudioProjects/MeFirst/app/src/main/AndroidManifest.xml:22:27-74
+activity#com.example.mefirst.OrderActivity
+ADDED from /Users/andie/StudioProjects/MeFirst/app/src/main/AndroidManifest.xml:25:9-32:20
+	android:parentActivityName
+		ADDED from /Users/andie/StudioProjects/MeFirst/app/src/main/AndroidManifest.xml:28:13-55
+	android:label
+		ADDED from /Users/andie/StudioProjects/MeFirst/app/src/main/AndroidManifest.xml:27:13-57
+	android:name
+		ADDED from /Users/andie/StudioProjects/MeFirst/app/src/main/AndroidManifest.xml:26:13-42
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/andie/StudioProjects/MeFirst/app/src/main/AndroidManifest.xml:29:13-31:68
+	android:value
+		ADDED from /Users/andie/StudioProjects/MeFirst/app/src/main/AndroidManifest.xml:31:17-65
+	android:name
+		ADDED from /Users/andie/StudioProjects/MeFirst/app/src/main/AndroidManifest.xml:30:17-63
